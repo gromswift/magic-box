@@ -1,0 +1,27 @@
+.container {
+  width: 300px;
+}
+
+.title {
+  font-size: 32px;
+  line-height: 45px;
+  margin-bottom: 15px;
+}
+
+.list {
+  list-style: none;
+  height: 500px;
+  color: #8f7443;
+  padding-right: 10px;
+  overflow-y: auto;
+}
+
+.listItem {
+  font-size: 18px;
+  line-height: 23px;
+  background-color: #fbf8e3;
+  border: 1px solid #ffe5b4;
+  border-radius: 5px;
+  padding: 10px 15px;
+  margin-bottom: 5px;
+}

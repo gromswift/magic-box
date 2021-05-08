@@ -1,0 +1,29 @@
+.container {
+
+}
+
+.row {
+  display: flex;
+
+  &:last-child {
+    .cell {
+      border-bottom: 1px solid black;
+    }
+  }
+}
+
+.cell {
+  width: 100%;
+  border: 1px solid black;
+  border-bottom: none;
+
+  &:not(:last-child) {
+    border-right: none;
+  }
+
+  &::after {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+  }
+}
