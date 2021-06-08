@@ -59,7 +59,7 @@ class App extends Component {
     if (error || (!isFetching && !mods)) {
       return (
         <div className={cx(styles.app, styles.error)}>
-          Some error has occurred!
+          Some error has occurred!!!
         </div>
       );
     }
