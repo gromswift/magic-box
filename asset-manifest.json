@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/magic-box-task/static/css/main.059b3eed.chunk.css",
+    "main.js": "/magic-box-task/static/js/main.c6d584a0.chunk.js",
+    "main.js.map": "/magic-box-task/static/js/main.c6d584a0.chunk.js.map",
+    "runtime-main.js": "/magic-box-task/static/js/runtime-main.5a2c950d.js",
+    "runtime-main.js.map": "/magic-box-task/static/js/runtime-main.5a2c950d.js.map",
+    "static/js/2.49d7a67b.chunk.js": "/magic-box-task/static/js/2.49d7a67b.chunk.js",
+    "static/js/2.49d7a67b.chunk.js.map": "/magic-box-task/static/js/2.49d7a67b.chunk.js.map",
+    "index.html": "/magic-box-task/index.html",
+    "static/css/main.059b3eed.chunk.css.map": "/magic-box-task/static/css/main.059b3eed.chunk.css.map",
+    "static/js/2.49d7a67b.chunk.js.LICENSE.txt": "/magic-box-task/static/js/2.49d7a67b.chunk.js.LICENSE.txt",
+    "static/media/down-arrow.fed2395f.svg": "/magic-box-task/static/media/down-arrow.fed2395f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a2c950d.js",
+    "static/js/2.49d7a67b.chunk.js",
+    "static/css/main.059b3eed.chunk.css",
+    "static/js/main.c6d584a0.chunk.js"
+  ]
+}
